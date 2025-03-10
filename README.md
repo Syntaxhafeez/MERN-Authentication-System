@@ -33,7 +33,9 @@ This is a **MERN Authentication System** project built to showcase my skills in 
 
 ## 🖼 Screenshots  
 
-
+![Image](https://github.com/user-attachments/assets/a5be5bbd-79e3-499c-bbf5-9d558b96c9c2)
+![Image](https://github.com/user-attachments/assets/0e9cbd65-9773-4722-8e6d-4ab328837351)
+![Image](https://github.com/user-attachments/assets/5500d7de-b52c-4618-b45e-6676bf71b3d9)
 
 ## 📲 Connect with Me  
 
